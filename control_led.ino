@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 
-const char* ssid = "TU_WIFI";
-const char* password = "TU_PASSWORD";
+const char* ssid = "INFINITUM17";
+const char* password = "VELY170395#";
 
 const char* firebaseHost = "https://control-led-default-rtdb.firebaseio.com/estado.json";
 
